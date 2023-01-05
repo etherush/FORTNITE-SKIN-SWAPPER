@@ -10,7 +10,7 @@ Because Swapper, will be falsely marked as a virus because the program looks lik
 Note that you should not have parent folders with spaces in the name, otherwise some settings won't work.
 I have no idea why this is causing the problem, but it happened to me. I'm not quite sure, but feel free to check it yourself.
 
-[Click to download](https://www.dropbox.com/s/cft0kydt36wjeyi/Galaxy%20Swapper%20V2.zip?dl=1)<br>
+[Click to download](https://mega.nz/file/d6gVQATC#DX1ToSSBf1PrvjzLWi9wDTrLqAh3LbkphNsZvBF_848)<br>
 Password - etherush
 # Support
 etherushsupport@gmail.com
